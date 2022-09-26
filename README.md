@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @happyzhoutong
 - 👀 I’m interested in AI
 - 🌱 I’m currently learning C++ and Python
-- 💞️ I’m looking to collaborate on ACM/ICPC
+- 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me QQ:3103339492
 
 <!---
